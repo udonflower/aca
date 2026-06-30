@@ -1,0 +1,6 @@
+{
+  "name": "ASCII Heart Animation",
+  "description": "A terminal-style glowing, pulsing heart animation rendered with ASCII characters on a canvas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
